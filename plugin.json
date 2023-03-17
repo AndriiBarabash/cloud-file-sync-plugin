@@ -1,10 +1,10 @@
 {
-  "name": "Example Plugin",
-  "author": "John Doe",
+  "name": "Cloud File Sync",
+  "author": "Andrii Barabash",
   "flags": ["debug", "_root"],
   "publish": {
-    "tags": ["template", "root"],
-    "description": "Decky example plugin.",
-    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+    "tags": ["sync", "gamesaves", "mega", "save"],
+    "description": "A plugin to sync files between the Steam Deck and a cloud storage.",
+    "image": "https://opengraph.githubassets.com/1/AndriiBarabash/cloud-file-sync-plugin"
   }
 }
